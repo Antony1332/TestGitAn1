@@ -15,3 +15,7 @@ git comit: permet de sauvegarder les changements. nécessite des infos compléme
 -spécifier utilisateur
 git config: défini l'utilisateur git (à faire une fois)->git config --global user.name "nom utilisateur"
 git config: défini l'utilisateur git (à faire une fois)->git config --global user.email "adresse mail"
+
+
+
+Mon projet Web
