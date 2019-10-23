@@ -1,1 +1,17 @@
 test
+
+
+Test 2 apres commit
+
+
+
+git init : permet de donner la gestion d'un dossier à git (a mettre à la racine du projet)
+git status : permet d'afficher l'état actuel du suivi des versions du dossier
+-branche master
+-comit : version, état. no comits yet (pas de version enregistrée)
+-tracked files : fichiers suivis par git.
+git add: pour faire suivre un fichier-> git add (+nom du fichier)
+git comit: permet de sauvegarder les changements. nécessite des infos complémentaire
+-spécifier utilisateur
+git config: défini l'utilisateur git (à faire une fois)->git config --global user.name "nom utilisateur"
+git config: défini l'utilisateur git (à faire une fois)->git config --global user.email "adresse mail"
